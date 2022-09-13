@@ -1,0 +1,18 @@
+#include <stdio.h>
+#include <stdlib>
+#include <time.h>
+/**
+* main entry point                                                                     
+
+*                                                                                      
+
+* Return alawys sucess                                                                 
+
+*/                                                                                     
+
+int main(void)
+
+int n;
+srand(time(0));
+n = rand() - RAN_Max /2;
+
